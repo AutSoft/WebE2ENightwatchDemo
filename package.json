@@ -4,11 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "./node_modules/.bin/nightwatch tests"
+    "start": "./node_modules/.bin/nightwatch tests",
+    "chrome": "./node_modules/.bin/nightwatch tests --env chrome",
+    "edge": "./node_modules/.bin/nightwatch tests --env edge",
+    "all": "./node_modules/.bin/nightwatch tests --env default,edge,chrome"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "nightwatch": "^0.9.16"
+    "nightwatch": "^0.9.16",
+    "string-template": "^1.0.0"
   }
 }

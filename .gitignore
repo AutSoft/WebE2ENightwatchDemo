@@ -1,4 +1,6 @@
 .idea/
 node_modules/
 reports/
+logs/
 screenshots/
+npm-debug.log
