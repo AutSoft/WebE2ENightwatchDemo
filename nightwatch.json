@@ -30,7 +30,8 @@
       },
       "desiredCapabilities": {
         "browserName": "firefox",
-        "marionette": true
+        "marionette": true,
+        "javascriptEnabled": true
       }
     },
 

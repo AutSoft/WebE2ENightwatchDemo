@@ -2,5 +2,6 @@
 node_modules/
 reports/
 logs/
+!index.php
 screenshots/
 npm-debug.log
