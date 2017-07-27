@@ -19,7 +19,7 @@
 
 	define('GALLERY_ROOT', './');
 	define('DATA_ROOT', './_sfpg_data/');
-	define('SECURITY_PHRASE', '');
+	define('SECURITY_PHRASE', 'minden_nagyon_biztonsagos');
 	define('PASSWORD', '');
 	define('ADMIN', FALSE);
 
