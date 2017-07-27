@@ -1,5 +1,5 @@
 {
-  "name": "githube2etest",
+  "name": "web-e2e-nightwatch-demo",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
